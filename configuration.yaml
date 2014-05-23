@@ -1,0 +1,16 @@
+redis:
+
+  # The Redis host name
+  host: localhost
+
+  # The Redis server port
+  port: 6379
+
+  # The timeout in milliseconds for connections
+  timeout: 2000
+
+  # Password for Redis connection
+  password:
+
+  # The Redis database instance (default 0)
+  database: 1
